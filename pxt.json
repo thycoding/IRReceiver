@@ -1,0 +1,23 @@
+{
+    "name": "IR_Receiver",
+    "version": "0.0.1",
+    "description": "Infrared Remote Receiver @THYCoding </>",
+    "license": "MIT",
+    "dependencies": {
+        "core": "*"
+    },
+    "files": [
+        "maqueen.ts",
+        "enums.d.ts",
+        "maqueenIR.cpp",
+        "ReceiverIR.cpp",
+        "ReceiverIR.h",
+        "RemoteIR.h",
+        "TransmitterIR.cpp",
+        "TransmitterIR.h"
+    ],
+    "testFiles": [
+        "tests.ts"
+    ],
+    "public": true
+}
